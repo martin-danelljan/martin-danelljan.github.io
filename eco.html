@@ -1,0 +1,25 @@
+<body>
+<p><img src="eco_logo.png" alt="Image could not be displayed." style="vertical-align:middle"></p>
+    <h1>ECO: Efficient Convolution Operators for Tracking</h1>
+	
+	<p>In recent years, Discriminative Correlation Filter (DCF) based methods have significantly advanced the state-of-the-art in tracking. However, in the pursuit of ever increasing tracking performance, their characteristic speed and real-time capability have gradually faded. Further, the increasingly complex models, with massive number of trainable parameters, have introduced the risk of severe over-fitting. In this work, we tackle the key causes behind the problems of computational complexity <i>and</i> over-fitting, with the aim of simultaneously improving \emph{both} speed and performance.
+
+	<p>We revisit the core DCF formulation and introduce: (i) a factorized convolution operator, which drastically reduces the number of parameters in the model; (ii) a compact generative model of the training sample distribution, that significantly reduces memory and time complexity, while providing better diversity of samples; (iii) a conservative model update strategy with improved robustness and reduced complexity. We perform comprehensive experiments on four benchmarks: VOT2016, UAV123, OTB-2015, and TempleColor. When using expensive deep features, our tracker provides a 20-fold speedup and achieves a 13.0% relative gain in Expected Average Overlap compared to the top ranked method <a href="http://www.cvl.isy.liu.se/research/objrec/visualtracking/conttrack/index.html">C-COT</a> in the VOT2016 challenge. Moreover, our fast variant, using hand-crafted features, operates at 60 Hz on a single CPU, while obtaining 65.0% AUC on OTB-2015.
+	
+    <h2>Publication</h2>
+    <p><a href="http://users.isy.liu.se/cvl/marda26/">Martin Danelljan</a>, Goutam Bhat, <a href="http://users.isy.liu.se/cvl/fahkh30/">Fahad Khan</a>, <a href="http://users.isy.liu.se/cvl/mfe/">Michael Felsberg</a>. <br>
+      <a href="https://arxiv.org/abs/1611.09224">ECO: Efficient Convolution Operators for Tracking.</a><br>
+      <span style=" color:#000000;">In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017. <br>
+      </span></p>
+	  
+	  <p>[<a href="eco_poster.pdf">Poster</a>]<br>
+	  
+	  <h2>Code</h2>
+	  <p><a href="https://github.com/martin-danelljan/ECO">Matlab code on GitHub</a></p>
+	  
+	  <h2>Raw Results</h2>
+	  <p><a href="ECO_raw_results.zip">Raw result files for the OTB, UAV123, Temple-Color and VOT2016 datasets.</a></p>
+</body>
+
+
+
