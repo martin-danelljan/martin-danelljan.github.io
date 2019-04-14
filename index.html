@@ -9,6 +9,10 @@ layout: default
   align-items:center;
   flex-direction: row;
 }
+.item-image {
+  margin: 0px 20px 0px 0px;
+  width: 200px;
+}
 </style>
 </head>
 
@@ -20,30 +24,51 @@ I received my Ph.D. degree from Linköping University, Sweden in 2018. I am curr
 
 <h3><b>CVPR 2019:</b> <a href="https://visionml.github.io/atom/">ATOM: Accurate Tracking by Overlap Maximization</a></h3>
 <div class="image-txt-container">
-<img src="atom_overview.png" width=100>
-<p>In this work we primarily address the problem of performing accurate bounding box estimation for generic visual tracking. We train a target estimation module offline, conditioned on the target appearance, to predict the overlap between the object and a bounding box estimate. Furthermore, we propose a target classification component that is learned online using dedicated optimization techniques.</p>
+<img src="atom_overview.png" class="item-image">      
+In this work we primarily address the problem of performing accurate bounding box estimation for generic visual tracking. We train a target estimation module offline, conditioned on the target appearance, to predict the overlap between the object and a bounding box estimate. Furthermore, we propose a target classification component that is learned online using dedicated optimization techniques.
 </div>
 
-	<h3><b>CVPR 2017:</b> <a href="https://visionml.github.io/eco/">ECO: Efficient Convolution Operators for Tracking</a></h3>
-	<p>In this work we tackle the key causes behind the problems of computational complexity <i>and</i> over-fitting in advanced DCF trackers.</p>
-	
+<h3><b>CVPR 2017:</b> <a href="https://visionml.github.io/eco/">ECO: Efficient Convolution Operators for Tracking</a></h3>
+<div class="image-txt-container">
+<img src="ECOfig.png" class="item-image">
+<div>In this work we tackle the key causes behind the problems of computational complexity <i>and</i> over-fitting in advanced DCF trackers.</div>
+</div>	
+
 	<h3><b>ECCV 2016:</b> <a href="http://www.cvl.isy.liu.se/research/objrec/visualtracking/conttrack/index.html">Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking</a></h3>
-	<p>In this work we develop a theoretical framework for discriminatevly learning a convolution operator in the continuous spatial domain. Our formulation enables a natural integration of multi-resolution deep feature maps. In addition, our continuous formulation is capable of accurate sub-pixel localization of the target.</p>
+<div class="image-txt-container">
+<img src="CCOTfig.png" class="item-image">
+	<div>In this work we develop a theoretical framework for discriminatevly learning a convolution operator in the continuous spatial domain. Our formulation enables a natural integration of multi-resolution deep feature maps. In addition, our continuous formulation is capable of accurate sub-pixel localization of the target.</div>
+</div>
 	
 	<h3><b>CVPR 2016:</b> <a href="http://www.cvl.isy.liu.se/research/cogvis/colored-point-set-registration/index.html">A Probabilistic Framework for Color-Based Point Set Registration</a></h3>
-	<p>In work we propose a probabilistic point set registration framework that exploits available <b>color</b> information associated with the points. Our method is based on a model of the joint distribution of 3D-point observations and their color information. We derive an EM algorithm for jointly estimating the model parameters and the relative transformations. The proposed model captures discriminative color information, while being computationally efficient.</p>
+<div class="image-txt-container">
+<img src="ColorPCregFig.png" class="item-image">
+	<div>In work we propose a probabilistic point set registration framework that exploits available <b>color</b> information associated with the points. Our method is based on a model of the joint distribution of 3D-point observations and their color information. We derive an EM algorithm for jointly estimating the model parameters and the relative transformations. The proposed model captures discriminative color information, while being computationally efficient.</div>
+</div>
 	
 	<h3><b>CVPR 2016:</b> <a href="http://www.cvl.isy.liu.se/research/objrec/visualtracking/decontrack/index.html">Adaptive Decontamination of the Training Set: A Unified Formulation for Discriminative Visual Tracking</a></h3>
-	<p>In this work we propose a unified formulation for alleviating the problem of corrupted training samples in tracking-by-detection methods. This is achieved by minimizing a joint loss over both target appearance model and the training sample quality weights. Our approach is generic and can be integrated into any discriminative tracking framework. </p>
+<div class="image-txt-container">
+<img src="DeconFig.png" class="item-image">
+	<div>In this work we propose a unified formulation for alleviating the problem of corrupted training samples in tracking-by-detection methods. This is achieved by minimizing a joint loss over both target appearance model and the training sample quality weights. Our approach is generic and can be integrated into any discriminative tracking framework. </div>
+</div>
 	
 	<h3><b>ICCV 2015:</b> <a href="http://www.cvl.isy.liu.se/research/objrec/visualtracking/regvistrack/index.html">Learning Spatially Regularized Correlation Filters for Visual Tracking</a></h3>
-	<p>In this work we propose Spatially Regularized Discriminative Correlation Filters (SRDCF) for tracking. This effectively mitigates the unwanted boundary effects, which limits the performance of standard correlation based trackers. The SRDCF tracker <b>won</b> the recent OpenCV Challenge and achieved the <b>best result</b> in the VOT-TIR2015 challenge.</p>
+<div class="image-txt-container">
+<img src="SRDCFfig_small.png" class="item-image">
+	<div>In this work we propose Spatially Regularized Discriminative Correlation Filters (SRDCF) for tracking. This effectively mitigates the unwanted boundary effects, which limits the performance of standard correlation based trackers. The SRDCF tracker <b>won</b> the recent OpenCV Challenge and achieved the <b>best result</b> in the VOT-TIR2015 challenge.</div>
+</div>
 	
 	<h3><b>TPAMI, BMVC 2014:</b> <a href="http://www.cvl.isy.liu.se/research/objrec/visualtracking/scalvistrack/index.html">Scale Estimation for Visual Tracking</a></h3>
-	<p>Here we investigate the problem of accurate and fast scale estimation for visual tracking. The proposed Discriminative Scale Space Tracker (DSST) <b>won</b> the Visual Object Tracking (VOT) 2014 challenge.</p>
+<div class="image-txt-container">
+<img src="DSSTpyramidFig_small.png" class="item-image">
+	<div>Here we investigate the problem of accurate and fast scale estimation for visual tracking. The proposed Discriminative Scale Space Tracker (DSST) <b>won</b> the Visual Object Tracking (VOT) 2014 challenge.</div>
+</div>
 	
 	<h3><b>CVPR 2014:</b> <a href="http://www.cvl.isy.liu.se/research/objrec/visualtracking/colvistrack/index.html">Adaptive Color Attributes for Real-Time Visual Tracking</a></h3>
-	<p>In this work, we investigated how to incorporate color information into visual tracking.</p>
+<div class="image-txt-container">
+<img src="CNfig_small.png" class="item-image">
+	<div>In this work, we investigated how to incorporate color information into visual tracking.</div>
+</div>
 
 <h2>Publications</h2>
 See my <a href="https://scholar.google.com/citations?user=NCSSpMkAAAAJ&hl=en">Google Scholar profile</a> or my <a href="http://dblp.uni-trier.de/pers/hd/d/Danelljan:Martin">dblp page</a> for a list of publications.
