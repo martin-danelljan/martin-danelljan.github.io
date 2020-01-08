@@ -25,8 +25,8 @@ layout: default
 <div class="image-txt-container">
 	<div>
 <h2>Biography</h2>
-I received my Ph.D. degree from Linköping University, Sweden in 2018. I am currently a postdoctoral researcher at ETH Zurich, Switzerland. My main research interests are online machine learning methods for visual tracking and video object segmentation, probabilistic models for point cloud registration, and machine learning with no or limited supervision.
-<br><br><b><a href="https://www.vision.ee.ethz.ch/en/members/detail/396/">Contact details.</a></b>
+I received my Ph.D. degree from Linköping University, Sweden in 2018. I am currently a postdoctoral researcher at ETH Zurich, Switzerland. My main research interests are developing machine learning methods for meta and online learning applications, such as visual tracking and video object segmentation. I am also interested in generative models and machine learning with no or limited supervision.
+<br><br><b>[<a href="https://www.vision.ee.ethz.ch/en/members/detail/396/">Contact details</a>] [<a href="https://scholar.google.com/citations?user=NCSSpMkAAAAJ&hl=en">Google Scholar</a>] [<a href="http://dblp.uni-trier.de/pers/hd/d/Danelljan:Martin">dblp</a>] </b>
 	</div>
 <img src="martin.jpg" class="profile-image">
 </div>
@@ -34,6 +34,22 @@ I received my Ph.D. degree from Linköping University, Sweden in 2018. I am curr
 	<h2>Research</h2>
 
 Selected research projects.
+
+<h3><b>ICCV 2019:</b> <a href="https://visionml.github.io/dimp/">Learning Discriminative Model Prediction for Tracking</a></h3>
+<div class="image-txt-container">
+<img src="dimpfig.png" class="item-image">
+	<div>
+In this work, we develop an end-to-end tracking architecture, capable of fully exploiting both target and background appearance information for target model prediction. Our architecture is derived from a discriminative learning loss by designing a dedicated optimization process that is capable of predicting a powerful model in only a few iterations. Furthermore, our approach is able to learn key aspects of the discriminative loss itself. The proposed tracker sets a new state-of-the-art on 6 tracking benchmarks, while running at over 40 FPS.
+		<br> <b>[<a href="https://visionml.github.io/dimp/">Project</a>] [<a href="https://arxiv.org/abs/1904.07220">Paper</a>] [<a href="https://github.com/visionml/pytracking">Code</a>] </b>
+</div></div>
+
+<h3><b>ICCV 2019:</b> <a href="https://arxiv.org/abs/1908.00855">Learning the Model Update for Siamese Trackers.</a></h3>
+<div class="image-txt-container">
+<img src="updatenet.png" class="item-image">
+	<div>
+We propose to replace the handcrafted update function in Siamese trackers with a learnable update mechanism. We use a convolutional neural network, called UpdateNet, which given the initial template, the accumulated template and the template of the current frame estimates the optimal template for the next frame.
+		<br> <b>[<a href="https://arxiv.org/abs/1908.00855">Paper</a>] [<a href="https://github.com/zhanglichao/updatenet">Code</a>] </b>
+</div></div>
 
 <h3><b>CVPR 2019:</b> <a href="https://visionml.github.io/atom/">ATOM: Accurate Tracking by Overlap Maximization</a></h3>
 <div class="image-txt-container">
