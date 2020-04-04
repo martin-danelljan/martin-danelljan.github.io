@@ -26,6 +26,8 @@ layout: default
 	<div>
 <h2>Biography</h2>
 I received my Ph.D. degree from Linköping University, Sweden in 2018. I am currently a postdoctoral researcher at ETH Zurich, Switzerland. My main research interests are developing machine learning methods for meta and online learning applications, such as visual tracking and video object segmentation. I am also interested in generative models and machine learning with no or limited supervision.
+<br><br>
+<b>News:</b> Four papers accepted in CVPR 2020.
 <br><br><b>[<a href="https://www.vision.ee.ethz.ch/en/members/detail/396/">Contact details</a>] [<a href="https://scholar.google.com/citations?user=NCSSpMkAAAAJ&hl=en">Google Scholar</a>] [<a href="http://dblp.uni-trier.de/pers/hd/d/Danelljan:Martin">dblp</a>] </b>
 	</div>
 <img src="martin.jpg" class="profile-image">
@@ -33,7 +35,44 @@ I received my Ph.D. degree from Linköping University, Sweden in 2018. I am curr
 
 	<h2>Research</h2>
 
-Selected research projects.
+Selected research projects and papers.
+
+
+<h3><b>CVPR 2020:</b> <a href="https://github.com/PruneTruong/GLU-Net">GLU-Net: Global-Local Universal Network for Dense Flow and Correspondences</a></h3>
+<div class="image-txt-container">
+<img src="glunetfig.jpg" class="item-image">
+	<div>
+In this work, we propose a universal network architecture for establishing dense correspondences between two images. The same network achieves state-of-the-art performance for geometric and semantic matching as well as optical flow. We achieve both high accuracy and robustness to large displacements by investigating the combined use of global and local correlation layers. We further propose an adaptive resolution strategy, allowing our network to operate on virtually any input image resolution.
+		<br> <b>[<a href="https://github.com/PruneTruong/GLU-Net">Project</a>] [<a href="https://arxiv.org/abs/1912.05524">Paper</a>] [<a href="https://github.com/PruneTruong/GLU-Net">Code</a>] </b>
+</div></div>
+
+
+<h3><b>CVPR 2020:</b> <a href="https://github.com/visionml/pytracking">Probabilistic Regression for Visual Tracking</a></h3>
+<div class="image-txt-container">
+<img src="prdimpfig.png" class="item-image">
+	<div>
+This work proposes a general formulation for probabilistic regression, which is then applied to visual tracking. Our network predicts the conditional probability density of the target state given an input image. The probability density is flexibly parametrized by the neural network itself. Crucially, our formulation is capable of modeling label noise stemming from inaccurate annotations and ambiguities in the task. The regression network is trained by directly minimizing the Kullback-Leibler divergence. 
+		<br> <b>[<a href="https://github.com/visionml/pytracking">Project</a>] [<a href="https://arxiv.org/abs/2003.12565">Paper</a>] [<a href="https://github.com/visionml/pytracking">Code</a>] </b>
+</div></div>
+
+
+<h3><b>CVPR 2020:</b> <a href="https://github.com/andr345/frtm-vos">Learning Fast and Robust Target Models for Video Object Segmentation</a></h3>
+<div class="image-txt-container">
+<img src="frtmfig.jpg" class="item-image">
+	<div>
+This work proposes a novel architecture for Video Object Segmentation (VOS). It integrates a target appearance model, which consists of a light-weight module that is learned during the inference stage. To this end, we employ fast optimization techniques in order to learn to predict a coarse but robust target segmentation. The coarse mask is processed by a segmentation network, that is exclusively trained offline to predict a high quality segmentation. Our method is fast, easily trainable and remains highly effective in cases of limited training data. 
+		<br> <b>[<a href="https://github.com/andr345/frtm-vos">Project</a>] [<a href="https://arxiv.org/abs/2003.00908">Paper</a>] [<a href="https://github.com/andr345/frtm-vos">Code</a>] </b>
+</div></div>
+
+
+<h3><b>CVPR 2020:</b> <a href="https://github.com/vaesl/IP-Net">Learning Human-Object Interaction Detection using Interaction Points</a></h3>
+<div class="image-txt-container">
+<img src="hoifig.jpg" class="item-image">
+	<div>
+Human-object interaction (HOI) detection strives to localize both the human and an object as well as the identification of complex interactions between them.  Most existing HOI detection approaches are instance-centric where interactions between all possible human-object pairs are predicted based on appearance features and coarse spatial information. We argue that appearance features alone are insufficient to capture complex human-object interactions. In this paper, we therefore propose a novel fully-convolutional approach that directly detects the interactions between human-object pairs. Our network predicts interaction points, which directly localize and classify the interaction. Paired with the densely predicted interaction vectors, the interactions are associated with human and object detections to obtain final predictions.
+		<br> <b>[<a href="https://github.com/vaesl/IP-Net">Project</a>] [<a href="https://arxiv.org/abs/2003.14023">Paper</a>] [<a href="https://github.com/vaesl/IP-Net">Code</a>] </b>
+</div></div>
+
 
 <h3><b>ICCV 2019:</b> <a href="https://visionml.github.io/dimp/">Learning Discriminative Model Prediction for Tracking</a></h3>
 <div class="image-txt-container">
