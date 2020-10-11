@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Goutam Bhat | Martin Danelljan</title>
+    <link>https://martin-danelljan.github.io/author/goutam-bhat/</link>
+      <atom:link href="https://martin-danelljan.github.io/author/goutam-bhat/index.xml" rel="self" type="application/rss+xml" />
+    <description>Goutam Bhat</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://martin-danelljan.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Goutam Bhat</title>
+      <link>https://martin-danelljan.github.io/author/goutam-bhat/</link>
+    </image>
+    
+    <item>
+      <title>Learning What to Learn for Video Object Segmentation</title>
+      <link>https://martin-danelljan.github.io/publication/lwtl/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/lwtl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy-Based Models for Deep Probabilistic Regression</title>
+      <link>https://martin-danelljan.github.io/publication/ebmreg/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/ebmreg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Know Your Surroundings: Exploiting Scene Information for Object Tracking</title>
+      <link>https://martin-danelljan.github.io/publication/kys/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/kys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Discriminative Model Prediction for Tracking</title>
+      <link>https://martin-danelljan.github.io/publication/dimp/</link>
+      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/dimp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ATOM: Accurate Tracking by Overlap Maximization</title>
+      <link>https://martin-danelljan.github.io/publication/atom/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/atom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unveiling the Power of Deep Tracking</title>
+      <link>https://martin-danelljan.github.io/publication/updt/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/updt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ECO: Efficient Convolution Operators for Tracking</title>
+      <link>https://martin-danelljan.github.io/publication/eco/</link>
+      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/eco/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joakim Johnander | Martin Danelljan</title>
+    <link>https://martin-danelljan.github.io/author/joakim-johnander/</link>
+      <atom:link href="https://martin-danelljan.github.io/author/joakim-johnander/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joakim Johnander</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://martin-danelljan.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Joakim Johnander</title>
+      <link>https://martin-danelljan.github.io/author/joakim-johnander/</link>
+    </image>
+    
+    <item>
+      <title>A Generative Appearance Model for End-to-end Video Object Segmentation</title>
+      <link>https://martin-danelljan.github.io/publication/agame/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/agame/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unveiling the Power of Deep Tracking</title>
+      <link>https://martin-danelljan.github.io/publication/updt/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/updt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

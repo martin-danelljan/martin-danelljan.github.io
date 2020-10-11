@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fahad Shahbaz Khan | Martin Danelljan</title>
+    <link>https://martin-danelljan.github.io/author/fahad-shahbaz-khan/</link>
+      <atom:link href="https://martin-danelljan.github.io/author/fahad-shahbaz-khan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fahad Shahbaz Khan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://martin-danelljan.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Fahad Shahbaz Khan</title>
+      <link>https://martin-danelljan.github.io/author/fahad-shahbaz-khan/</link>
+    </image>
+    
+    <item>
+      <title>Learning Fast and Robust Target Models for Video Object Segmentation</title>
+      <link>https://martin-danelljan.github.io/publication/frtm/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/frtm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Human-Object Interaction Detection using Interaction Points</title>
+      <link>https://martin-danelljan.github.io/publication/iphoi/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/iphoi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning the Model Update for Siamese Trackers</title>
+      <link>https://martin-danelljan.github.io/publication/updatenet/</link>
+      <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/updatenet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ATOM: Accurate Tracking by Overlap Maximization</title>
+      <link>https://martin-danelljan.github.io/publication/atom/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/atom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Generative Appearance Model for End-to-end Video Object Segmentation</title>
+      <link>https://martin-danelljan.github.io/publication/agame/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/agame/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unveiling the Power of Deep Tracking</title>
+      <link>https://martin-danelljan.github.io/publication/updt/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/updt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Density Adaptive Point Set Registration</title>
+      <link>https://martin-danelljan.github.io/publication/dare/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/dare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ECO: Efficient Convolution Operators for Tracking</title>
+      <link>https://martin-danelljan.github.io/publication/eco/</link>
+      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/eco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking</title>
+      <link>https://martin-danelljan.github.io/publication/ccot/</link>
+      <pubDate>Wed, 05 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/ccot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Probabilistic Framework for Color-Based Point Set Registration</title>
+      <link>https://martin-danelljan.github.io/publication/cppsr/</link>
+      <pubDate>Sat, 25 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/cppsr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Decontamination of the Training Set: A Unified Formulation for Discriminative Visual Tracking</title>
+      <link>https://martin-danelljan.github.io/publication/decon/</link>
+      <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/decon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Spatially Regularized Correlation Filters for Visual Tracking</title>
+      <link>https://martin-danelljan.github.io/publication/srdcf/</link>
+      <pubDate>Tue, 15 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/srdcf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discriminative Scale Space Tracking</title>
+      <link>https://martin-danelljan.github.io/publication/dsst/</link>
+      <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/dsst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Color Attributes for Real-Time Visual Tracking</title>
+      <link>https://martin-danelljan.github.io/publication/act/</link>
+      <pubDate>Tue, 24 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/act/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luc Van Gool | Martin Danelljan</title>
+    <link>https://martin-danelljan.github.io/author/luc-van-gool/</link>
+      <atom:link href="https://martin-danelljan.github.io/author/luc-van-gool/index.xml" rel="self" type="application/rss+xml" />
+    <description>Luc Van Gool</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://martin-danelljan.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Luc Van Gool</title>
+      <link>https://martin-danelljan.github.io/author/luc-van-gool/</link>
+    </image>
+    
+    <item>
+      <title>GOCor: Bringing Globally Optimized Correspondence Volumes into Your Neural Network</title>
+      <link>https://martin-danelljan.github.io/publication/gocor/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/gocor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning What to Learn for Video Object Segmentation</title>
+      <link>https://martin-danelljan.github.io/publication/lwtl/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/lwtl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SRFlow: Learning the Super-Resolution Space with Normalizing Flow</title>
+      <link>https://martin-danelljan.github.io/publication/srflow/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/srflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video Object Segmentation with Episodic Graph Memory Networks</title>
+      <link>https://martin-danelljan.github.io/publication/egmvos/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/egmvos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Know Your Surroundings: Exploiting Scene Information for Object Tracking</title>
+      <link>https://martin-danelljan.github.io/publication/kys/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/kys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Regression for Visual Tracking</title>
+      <link>https://martin-danelljan.github.io/publication/prdimp/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/prdimp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Discriminative Model Prediction for Tracking</title>
+      <link>https://martin-danelljan.github.io/publication/dimp/</link>
+      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/dimp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

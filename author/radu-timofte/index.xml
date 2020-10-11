@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Radu Timofte | Martin Danelljan</title>
+    <link>https://martin-danelljan.github.io/author/radu-timofte/</link>
+      <atom:link href="https://martin-danelljan.github.io/author/radu-timofte/index.xml" rel="self" type="application/rss+xml" />
+    <description>Radu Timofte</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://martin-danelljan.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Radu Timofte</title>
+      <link>https://martin-danelljan.github.io/author/radu-timofte/</link>
+    </image>
+    
+    <item>
+      <title>DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation</title>
+      <link>https://martin-danelljan.github.io/publication/deepsvg/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/deepsvg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GOCor: Bringing Globally Optimized Correspondence Volumes into Your Neural Network</title>
+      <link>https://martin-danelljan.github.io/publication/gocor/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/gocor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Train Your Energy-Based Model for Regression</title>
+      <link>https://martin-danelljan.github.io/publication/ebmregtr/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/ebmregtr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning What to Learn for Video Object Segmentation</title>
+      <link>https://martin-danelljan.github.io/publication/lwtl/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/lwtl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SRFlow: Learning the Super-Resolution Space with Normalizing Flow</title>
+      <link>https://martin-danelljan.github.io/publication/srflow/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/srflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Know Your Surroundings: Exploiting Scene Information for Object Tracking</title>
+      <link>https://martin-danelljan.github.io/publication/kys/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/kys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GLU-Net: Global-Local Universal Network for Dense Flow and Correspondences</title>
+      <link>https://martin-danelljan.github.io/publication/glunet/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/glunet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Regression for Visual Tracking</title>
+      <link>https://martin-danelljan.github.io/publication/prdimp/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/prdimp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Discriminative Model Prediction for Tracking</title>
+      <link>https://martin-danelljan.github.io/publication/dimp/</link>
+      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/dimp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
