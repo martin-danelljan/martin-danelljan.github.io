@@ -5,12 +5,20 @@
     <link>https://martin-danelljan.github.io/author/goutam-bhat/</link>
       <atom:link href="https://martin-danelljan.github.io/author/goutam-bhat/index.xml" rel="self" type="application/rss+xml" />
     <description>Goutam Bhat</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martin-danelljan.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Goutam Bhat</title>
       <link>https://martin-danelljan.github.io/author/goutam-bhat/</link>
     </image>
+    
+    <item>
+      <title>Deep Burst Super-Resolution</title>
+      <link>https://martin-danelljan.github.io/publication/burstsr/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/burstsr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning What to Learn for Video Object Segmentation</title>

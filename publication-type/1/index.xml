@@ -5,12 +5,52 @@
     <link>https://martin-danelljan.github.io/publication-type/1/</link>
       <atom:link href="https://martin-danelljan.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martin-danelljan.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>https://martin-danelljan.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Learning Accurate Dense Correspondences and When to Trust Them</title>
+      <link>https://martin-danelljan.github.io/publication/pdcnet/</link>
+      <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/pdcnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeFlow: Learning Complex Image Degradations from Unpaired Data with Conditional Flows</title>
+      <link>https://martin-danelljan.github.io/publication/deflow/</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/deflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Burst Super-Resolution</title>
+      <link>https://martin-danelljan.github.io/publication/burstsr/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/burstsr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Heterogeneity Hypothesis: Finding Layer-Wise Dissimilated Network Architecture</title>
+      <link>https://martin-danelljan.github.io/publication/hethyp/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/hethyp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Few-Shot Classification By Few-Iteration Meta-Learning</title>
+      <link>https://martin-danelljan.github.io/publication/fiml/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/fiml/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation</title>
