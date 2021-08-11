@@ -5,12 +5,28 @@
     <link>https://martin-danelljan.github.io/author/goutam-bhat/</link>
       <atom:link href="https://martin-danelljan.github.io/author/goutam-bhat/index.xml" rel="self" type="application/rss+xml" />
     <description>Goutam Bhat</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martin-danelljan.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Goutam Bhat</title>
       <link>https://martin-danelljan.github.io/author/goutam-bhat/</link>
     </image>
+    
+    <item>
+      <title>Deep Reparametrization of Multi-Frame Super-Resolution and Denoising</title>
+      <link>https://martin-danelljan.github.io/publication/deepreparam/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/deepreparam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Masks from Boxes by Mining Spatio-Temporal Consistencies in Videos</title>
+      <link>https://martin-danelljan.github.io/publication/vidboxseg/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/vidboxseg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deep Burst Super-Resolution</title>
