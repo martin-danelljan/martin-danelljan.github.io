@@ -5,7 +5,7 @@
     <link>https://martin-danelljan.github.io/author/fisher-yu/</link>
       <atom:link href="https://martin-danelljan.github.io/author/fisher-yu/index.xml" rel="self" type="application/rss+xml" />
     <description>Fisher Yu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 06:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martin-danelljan.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Fisher Yu</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Deep Reparametrization of Multi-Frame Super-Resolution and Denoising</title>
-      <link>https://martin-danelljan.github.io/publication/deepreparam/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://martin-danelljan.github.io/publication/deepreparam/</guid>
+      <title>Warp Consistency for Unsupervised Learning of Dense Correspondences</title>
+      <link>https://martin-danelljan.github.io/publication/warpc/</link>
+      <pubDate>Sun, 01 Aug 2021 06:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/warpc/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Warp Consistency for Unsupervised Learning of Dense Correspondences</title>
-      <link>https://martin-danelljan.github.io/publication/warpc/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://martin-danelljan.github.io/publication/warpc/</guid>
+      <title>Deep Reparametrization of Multi-Frame Super-Resolution and Denoising</title>
+      <link>https://martin-danelljan.github.io/publication/deepreparam/</link>
+      <pubDate>Sun, 01 Aug 2021 05:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/deepreparam/</guid>
       <description></description>
     </item>
     
