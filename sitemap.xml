@@ -2,271 +2,183 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://martin-danelljan.github.io/publication-type/1/</loc>
+    <loc>https://example.com/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/talk/example-talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/event/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/publication-type/1/</loc>
     <lastmod>2021-08-01T06:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/authors/</loc>
+    <loc>https://example.com/publication_types/</loc>
     <lastmod>2021-08-01T06:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/author/fisher-yu/</loc>
+    <loc>https://example.com/publication/</loc>
     <lastmod>2021-08-01T06:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/author/luc-van-gool/</loc>
+    <loc>https://example.com/publication/warpc/</loc>
     <lastmod>2021-08-01T06:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/</loc>
-    <lastmod>2021-08-01T06:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/author/martin-danelljan/</loc>
-    <lastmod>2021-08-01T06:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/author/prune-truong/</loc>
-    <lastmod>2021-08-01T06:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/publication_types/</loc>
-    <lastmod>2021-08-01T06:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/publication/</loc>
-    <lastmod>2021-08-01T06:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/publication/warpc/</loc>
-    <lastmod>2021-08-01T06:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/publication/deepreparam/</loc>
+    <loc>https://example.com/publication/deepreparam/</loc>
     <lastmod>2021-08-01T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/author/goutam-bhat/</loc>
-    <lastmod>2021-08-01T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/author/radu-timofte/</loc>
-    <lastmod>2021-08-01T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/author/bin-zhao/</loc>
+    <loc>https://example.com/publication/vidboxseg/</loc>
     <lastmod>2021-08-01T04:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/publication/vidboxseg/</loc>
-    <lastmod>2021-08-01T04:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/author/christoph-mayer/</loc>
+    <loc>https://example.com/publication/keeptrack/</loc>
     <lastmod>2021-08-01T03:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/author/danda-pani-paudel/</loc>
-    <lastmod>2021-08-01T03:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/publication/keeptrack/</loc>
-    <lastmod>2021-08-01T03:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/author/andreas-lugmayr/</loc>
+    <loc>https://example.com/publication/hcflow/</loc>
     <lastmod>2021-08-01T01:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/publication/hcflow/</loc>
-    <lastmod>2021-08-01T01:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/author/jingyun-liang/</loc>
-    <lastmod>2021-08-01T01:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/author/kai-zhang/</loc>
-    <lastmod>2021-08-01T01:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/publication/scalingseg/</loc>
+    <loc>https://example.com/publication/scalingseg/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/author/shipra-jain/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/publication/locattseg/</loc>
+    <loc>https://example.com/publication/locattseg/</loc>
     <lastmod>2021-07-01T03:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/author/matthieu-paul/</loc>
-    <lastmod>2021-07-01T03:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/publication/pdcnet/</loc>
+    <loc>https://example.com/publication/pdcnet/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/publication/deflow/</loc>
+    <loc>https://example.com/publication/deflow/</loc>
     <lastmod>2021-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/author/valentin-wolf/</loc>
-    <lastmod>2021-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/publication/burstsr/</loc>
+    <loc>https://example.com/publication/burstsr/</loc>
     <lastmod>2021-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/author/shuhang-gu/</loc>
+    <loc>https://example.com/publication/hethyp/</loc>
     <lastmod>2021-03-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/publication/hethyp/</loc>
-    <lastmod>2021-03-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/author/wen-li/</loc>
-    <lastmod>2021-03-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/author/yawei-li/</loc>
-    <lastmod>2021-03-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/author/ardhendu-tripathi/</loc>
+    <loc>https://example.com/publication/fiml/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/publication/fiml/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <loc>https://example.com/tag/academic/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/author/alexandre-alahi/</loc>
+    <loc>https://example.com/categories/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/category/demo/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/post/getting-started/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/publication/deepsvg/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/author/alexandre-carlier/</loc>
+    <loc>https://example.com/publication/gocor/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/publication/deepsvg/</loc>
-    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/publication/gocor/</loc>
-    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/author/fredrik-gustafsson/</loc>
+    <loc>https://example.com/publication/ebmregtr/</loc>
     <lastmod>2020-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/publication/ebmregtr/</loc>
-    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/author/thomas-schon/</loc>
-    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/author/andreas-robinson/</loc>
+    <loc>https://example.com/publication/lwtl/</loc>
     <lastmod>2020-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/author/felix-jaremo-lawin/</loc>
-    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/publication/lwtl/</loc>
-    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/author/michael-felsberg/</loc>
-    <lastmod>2020-08-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/publication/srflow/</loc>
+    <loc>https://example.com/publication/srflow/</loc>
     <lastmod>2020-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/publication/ebmreg/</loc>
+    <loc>https://example.com/publication/ebmreg/</loc>
     <lastmod>2020-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/author/jianbing-shen/</loc>
+    <loc>https://example.com/publication/egmvos/</loc>
     <lastmod>2020-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/author/tianfei-zhou/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/publication/egmvos/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/author/wenguan-wang/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/author/xinkai-lu/</loc>
-    <lastmod>2020-08-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/publication/kys/</loc>
+    <loc>https://example.com/publication/kys/</loc>
     <lastmod>2020-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/publication/glunet/</loc>
+    <loc>https://example.com/publication/glunet/</loc>
     <lastmod>2020-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/author/fahad-shahbaz-khan/</loc>
+    <loc>https://example.com/publication/frtm/</loc>
     <lastmod>2020-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/publication/frtm/</loc>
-    <lastmod>2020-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/publication/prdimp/</loc>
+    <loc>https://example.com/publication/prdimp/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/author/jian-sun/</loc>
+    <loc>https://example.com/publication/iphoi/</loc>
     <lastmod>2020-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/publication/iphoi/</loc>
-    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/author/tiancai-wang/</loc>
-    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/author/tong-yang/</loc>
-    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/author/xiangyu-zhang/</loc>
-    <lastmod>2020-06-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/publication/dimp/</loc>
+    <loc>https://example.com/publication/dimp/</loc>
     <lastmod>2019-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/author/abel-gonzalez-garcia/</loc>
+    <loc>https://example.com/publication/updatenet/</loc>
     <lastmod>2019-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/author/joost-van-de-weijer/</loc>
-    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/publication/updatenet/</loc>
-    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/author/lichao-zhang/</loc>
-    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/publication/trknwn/</loc>
+    <loc>https://example.com/publication/trknwn/</loc>
     <lastmod>2019-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/publication/atom/</loc>
+    <loc>https://example.com/publication/atom/</loc>
     <lastmod>2019-06-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/publication/agame/</loc>
+    <loc>https://example.com/publication/agame/</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/author/emil-brissman/</loc>
-    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
+    <loc>https://example.com/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/author/joakim-johnander/</loc>
-    <lastmod>2019-06-24T00:00:00+00:00</lastmod>
+    <loc>https://example.com/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/publication/updt/</loc>
+    <loc>https://example.com/publication/updt/</loc>
     <lastmod>2018-09-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/publication/dare/</loc>
+    <loc>https://example.com/publication/dare/</loc>
     <lastmod>2018-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/author/per-erik-forssen/</loc>
-    <lastmod>2018-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/publication/eco/</loc>
+    <loc>https://example.com/publication/eco/</loc>
     <lastmod>2017-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/publication/ccot/</loc>
+    <loc>https://example.com/publication/ccot/</loc>
     <lastmod>2016-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/publication/cppsr/</loc>
+    <loc>https://example.com/publication/cppsr/</loc>
     <lastmod>2016-06-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/author/giulia-meneghetti/</loc>
-    <lastmod>2016-06-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/publication/decon/</loc>
+    <loc>https://example.com/publication/decon/</loc>
     <lastmod>2016-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/author/gustav-hager/</loc>
-    <lastmod>2016-06-24T00:00:00+00:00</lastmod>
+    <loc>https://example.com/tag/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/publication/srdcf/</loc>
+    <loc>https://example.com/project/example/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/publication/srdcf/</loc>
     <lastmod>2015-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/publication-type/2/</loc>
+    <loc>https://example.com/publication-type/2/</loc>
     <lastmod>2014-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/publication/dsst/</loc>
+    <loc>https://example.com/publication/dsst/</loc>
     <lastmod>2014-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/publication/act/</loc>
+    <loc>https://example.com/publication/act/</loc>
     <lastmod>2014-06-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/categories/</loc>
+    <loc>https://example.com/publication/example/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://martin-danelljan.github.io/talk/</loc>
-  </url><url>
-    <loc>https://martin-danelljan.github.io/tags/</loc>
+    <loc>https://example.com/admin/</loc>
   </url>
 </urlset>

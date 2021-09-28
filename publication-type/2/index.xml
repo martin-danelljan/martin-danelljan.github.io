@@ -1,19 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 on Martin Danelljan</title>
-    <link>https://martin-danelljan.github.io/publication-type/2/</link>
-    <description>Recent content in 2 on Martin Danelljan</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 15 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://martin-danelljan.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <title>2 | Academic</title>
+    <link>https://example.com/publication-type/2/</link>
+      <atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://example.com/publication-type/2/</link>
+    </image>
+    
     <item>
       <title>Discriminative Scale Space Tracking</title>
-      <link>https://martin-danelljan.github.io/publication/dsst/</link>
+      <link>https://example.com/publication/dsst/</link>
       <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://martin-danelljan.github.io/publication/dsst/</guid>
-      <description>&lt;b style=&#34;font-size:120%;color:#008080&#34;&gt;TPAMI &amp;amp; BMVC 2014&lt;/b&gt; &lt;b style=&#34;font-size:120%;color:#E08040&#34;&gt;&lt;/b&gt;&lt;br&gt; Accurate and fast scale estimation for visual tracking.</description>
+      <guid>https://example.com/publication/dsst/</guid>
+      <description></description>
     </item>
     
   </channel>
