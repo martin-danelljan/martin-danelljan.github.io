@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tianfei Zhou | Martin Danelljan</title>
+    <title>Tianfei Zhou on Martin Danelljan</title>
     <link>https://martin-danelljan.github.io/author/tianfei-zhou/</link>
-      <atom:link href="https://martin-danelljan.github.io/author/tianfei-zhou/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tianfei Zhou</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://martin-danelljan.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Tianfei Zhou</title>
-      <link>https://martin-danelljan.github.io/author/tianfei-zhou/</link>
-    </image>
-    
+    <description>Recent content in Tianfei Zhou on Martin Danelljan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://martin-danelljan.github.io/author/tianfei-zhou/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Video Object Segmentation with Episodic Graph Memory Networks</title>
       <link>https://martin-danelljan.github.io/publication/egmvos/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://martin-danelljan.github.io/publication/egmvos/</guid>
-      <description></description>
+      <description>&lt;b style=&#34;font-size:120%;color:#008080&#34;&gt;ECCV 2020&lt;/b&gt; &lt;b style=&#34;font-size:120%;color:#E08040&#34;&gt;Spotlight&lt;/b&gt;&lt;br&gt; A graph-based memory module for Video Object Segmentation.</description>
     </item>
     
   </channel>

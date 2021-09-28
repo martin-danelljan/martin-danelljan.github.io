@@ -1,175 +1,190 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Luc Van Gool | Martin Danelljan</title>
+    <title>Luc Van Gool on Martin Danelljan</title>
     <link>https://martin-danelljan.github.io/author/luc-van-gool/</link>
-      <atom:link href="https://martin-danelljan.github.io/author/luc-van-gool/index.xml" rel="self" type="application/rss+xml" />
-    <description>Luc Van Gool</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 06:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://martin-danelljan.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Luc Van Gool</title>
-      <link>https://martin-danelljan.github.io/author/luc-van-gool/</link>
-    </image>
-    
+    <description>Recent content in Luc Van Gool on Martin Danelljan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Aug 2021 06:00:00 +0000</lastBuildDate><atom:link href="https://martin-danelljan.github.io/author/luc-van-gool/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Warp Consistency for Unsupervised Learning of Dense Correspondences</title>
       <link>https://martin-danelljan.github.io/publication/warpc/</link>
       <pubDate>Sun, 01 Aug 2021 06:00:00 +0000</pubDate>
+      
       <guid>https://martin-danelljan.github.io/publication/warpc/</guid>
-      <description></description>
+      <description>&lt;b style=&#34;font-size:120%;color:#008080&#34;&gt;ICCV 2021&lt;/b&gt; &lt;b style=&#34;font-size:120%;color:#E08040&#34;&gt;Oral&lt;/b&gt;&lt;br&gt; Unsupervised method for learning dense correspondences and optical flow on real image pairs.</description>
     </item>
     
     <item>
       <title>Deep Reparametrization of Multi-Frame Super-Resolution and Denoising</title>
       <link>https://martin-danelljan.github.io/publication/deepreparam/</link>
       <pubDate>Sun, 01 Aug 2021 05:00:00 +0000</pubDate>
+      
       <guid>https://martin-danelljan.github.io/publication/deepreparam/</guid>
-      <description></description>
+      <description>&lt;b style=&#34;font-size:120%;color:#008080&#34;&gt;ICCV 2021&lt;/b&gt; &lt;b style=&#34;font-size:120%;color:#E08040&#34;&gt;Oral&lt;/b&gt;&lt;br&gt; Deep optimization-based formulation for multi-frame super-resolution and denoising.</description>
     </item>
     
     <item>
       <title>Generating Masks from Boxes by Mining Spatio-Temporal Consistencies in Videos</title>
       <link>https://martin-danelljan.github.io/publication/vidboxseg/</link>
       <pubDate>Sun, 01 Aug 2021 04:00:00 +0000</pubDate>
+      
       <guid>https://martin-danelljan.github.io/publication/vidboxseg/</guid>
-      <description></description>
+      <description>&lt;b style=&#34;font-size:120%;color:#008080&#34;&gt;ICCV 2021&lt;/b&gt;&lt;br&gt; An optimization-based architecture for converting video bounding box annotations to segmentation masks.</description>
     </item>
     
     <item>
       <title>Learning Target Candidate Association to Keep Track of What Not to Track</title>
       <link>https://martin-danelljan.github.io/publication/keeptrack/</link>
       <pubDate>Sun, 01 Aug 2021 03:00:00 +0000</pubDate>
+      
       <guid>https://martin-danelljan.github.io/publication/keeptrack/</guid>
-      <description></description>
+      <description>&lt;b style=&#34;font-size:120%;color:#008080&#34;&gt;ICCV 2021&lt;/b&gt;&lt;br&gt; Associating the target and distractor objects for robust visual tracking.</description>
     </item>
     
     <item>
       <title>Hierarchical Conditional Flow: A Unified Framework for Image Super-Resolution and Image Rescaling</title>
       <link>https://martin-danelljan.github.io/publication/hcflow/</link>
       <pubDate>Sun, 01 Aug 2021 01:00:00 +0000</pubDate>
+      
       <guid>https://martin-danelljan.github.io/publication/hcflow/</guid>
-      <description></description>
+      <description>&lt;b style=&#34;font-size:120%;color:#008080&#34;&gt;ICCV 2021&lt;/b&gt;&lt;br&gt; A unified hierarchical normalizing flow architecture for super-resolution and image rescaling.</description>
     </item>
     
     <item>
       <title>Scaling Semantic Segmentation Beyond 1K Classes on a Single GPU</title>
       <link>https://martin-danelljan.github.io/publication/scalingseg/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://martin-danelljan.github.io/publication/scalingseg/</guid>
-      <description></description>
+      <description>&lt;b style=&#34;font-size:120%;color:#008080&#34;&gt;ICCV 2021&lt;/b&gt;&lt;br&gt; Reducing memory complexity for training semantic segmentation models with large number of classes.</description>
     </item>
     
     <item>
       <title>Local Memory Attention for Fast Video Semantic Segmentation</title>
       <link>https://martin-danelljan.github.io/publication/locattseg/</link>
       <pubDate>Thu, 01 Jul 2021 03:00:00 +0000</pubDate>
+      
       <guid>https://martin-danelljan.github.io/publication/locattseg/</guid>
-      <description></description>
+      <description>&lt;b style=&#34;font-size:120%;color:#008080&#34;&gt;IROS 2021&lt;/b&gt;&lt;br&gt; A local memory cross-attention module for fast video semantic segmentation.</description>
     </item>
     
     <item>
       <title>Learning Accurate Dense Correspondences and When to Trust Them</title>
       <link>https://martin-danelljan.github.io/publication/pdcnet/</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://martin-danelljan.github.io/publication/pdcnet/</guid>
-      <description></description>
+      <description>&lt;b style=&#34;font-size:120%;color:#008080&#34;&gt;CVPR 2021&lt;/b&gt; &lt;b style=&#34;font-size:120%;color:#E08040&#34;&gt;Oral&lt;/b&gt;&lt;br&gt; A method that gives you accurate dense optical flow and correspondences with robust uncertainty.</description>
     </item>
     
     <item>
       <title>DeFlow: Learning Complex Image Degradations from Unpaired Data with Conditional Flows</title>
       <link>https://martin-danelljan.github.io/publication/deflow/</link>
       <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://martin-danelljan.github.io/publication/deflow/</guid>
-      <description></description>
+      <description>&lt;b style=&#34;font-size:120%;color:#008080&#34;&gt;CVPR 2021&lt;/b&gt; &lt;b style=&#34;font-size:120%;color:#E08040&#34;&gt;Oral&lt;/b&gt;&lt;br&gt; A novel unpaired learning formulation for conditional normalizing flows with applications to learning image degradations.</description>
     </item>
     
     <item>
       <title>Deep Burst Super-Resolution</title>
       <link>https://martin-danelljan.github.io/publication/burstsr/</link>
       <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://martin-danelljan.github.io/publication/burstsr/</guid>
-      <description></description>
+      <description>&lt;b style=&#34;font-size:120%;color:#008080&#34;&gt;CVPR 2021&lt;/b&gt;&lt;br&gt; An attention based architecture and real-world dataset for burst super-resolution.</description>
     </item>
     
     <item>
       <title>The Heterogeneity Hypothesis: Finding Layer-Wise Dissimilated Network Architecture</title>
       <link>https://martin-danelljan.github.io/publication/hethyp/</link>
       <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://martin-danelljan.github.io/publication/hethyp/</guid>
-      <description></description>
+      <description>&lt;b style=&#34;font-size:120%;color:#008080&#34;&gt;CVPR 2021&lt;/b&gt;&lt;br&gt; We tackle the problem of convolutional neural network design by adjusting the channel configurations of predefined networks.</description>
     </item>
     
     <item>
       <title>Few-Shot Classification By Few-Iteration Meta-Learning</title>
       <link>https://martin-danelljan.github.io/publication/fiml/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://martin-danelljan.github.io/publication/fiml/</guid>
-      <description></description>
+      <description>&lt;b style=&#34;font-size:120%;color:#008080&#34;&gt;ICRA 2021&lt;/b&gt;&lt;br&gt; An optimization-based meta-learning approach for few-shot classification.</description>
     </item>
     
     <item>
       <title>GOCor: Bringing Globally Optimized Correspondence Volumes into Your Neural Network</title>
       <link>https://martin-danelljan.github.io/publication/gocor/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://martin-danelljan.github.io/publication/gocor/</guid>
-      <description></description>
+      <description>&lt;b style=&#34;font-size:120%;color:#008080&#34;&gt;NeurIPS 2020&lt;/b&gt;&lt;br&gt; A fully differentiable dense matching module for your correspondence or optical flow network.</description>
     </item>
     
     <item>
       <title>Learning What to Learn for Video Object Segmentation</title>
       <link>https://martin-danelljan.github.io/publication/lwtl/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://martin-danelljan.github.io/publication/lwtl/</guid>
-      <description></description>
+      <description>&lt;b style=&#34;font-size:120%;color:#008080&#34;&gt;ECCV 2020&lt;/b&gt; &lt;b style=&#34;font-size:120%;color:#E08040&#34;&gt;Oral&lt;/b&gt;&lt;br&gt; An optimization-based few-shot learner for VOS.</description>
     </item>
     
     <item>
       <title>SRFlow: Learning the Super-Resolution Space with Normalizing Flow</title>
       <link>https://martin-danelljan.github.io/publication/srflow/</link>
       <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://martin-danelljan.github.io/publication/srflow/</guid>
-      <description></description>
+      <description>&lt;b style=&#34;font-size:120%;color:#008080&#34;&gt;ECCV 2020&lt;/b&gt; &lt;b style=&#34;font-size:120%;color:#E08040&#34;&gt;Spotlight&lt;/b&gt;&lt;br&gt; Normalizing flow based super-resolution method capable of learning the conditional distribution of the output given the low-resolution input.</description>
     </item>
     
     <item>
       <title>Video Object Segmentation with Episodic Graph Memory Networks</title>
       <link>https://martin-danelljan.github.io/publication/egmvos/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://martin-danelljan.github.io/publication/egmvos/</guid>
-      <description></description>
+      <description>&lt;b style=&#34;font-size:120%;color:#008080&#34;&gt;ECCV 2020&lt;/b&gt; &lt;b style=&#34;font-size:120%;color:#E08040&#34;&gt;Spotlight&lt;/b&gt;&lt;br&gt; A graph-based memory module for Video Object Segmentation.</description>
     </item>
     
     <item>
       <title>Know Your Surroundings: Exploiting Scene Information for Object Tracking</title>
       <link>https://martin-danelljan.github.io/publication/kys/</link>
       <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://martin-danelljan.github.io/publication/kys/</guid>
-      <description></description>
+      <description>&lt;b style=&#34;font-size:120%;color:#008080&#34;&gt;ECCV 2020&lt;/b&gt; &lt;b style=&#34;font-size:120%;color:#E08040&#34;&gt;&lt;/b&gt;&lt;br&gt; A tracking architecture that exploits the knowledge about the presence of other objects in the surrounding scene to prevent failure.</description>
     </item>
     
     <item>
       <title>Probabilistic Regression for Visual Tracking</title>
       <link>https://martin-danelljan.github.io/publication/prdimp/</link>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://martin-danelljan.github.io/publication/prdimp/</guid>
-      <description></description>
+      <description>&lt;b style=&#34;font-size:120%;color:#008080&#34;&gt;CVPR 2020&lt;/b&gt; &lt;b style=&#34;font-size:120%;color:#E08040&#34;&gt;&lt;/b&gt;&lt;br&gt; Proposes a general formulation for probabilistic regression, which is then applied to visual tracking.</description>
     </item>
     
     <item>
       <title>Learning Discriminative Model Prediction for Tracking</title>
       <link>https://martin-danelljan.github.io/publication/dimp/</link>
       <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
+      
       <guid>https://martin-danelljan.github.io/publication/dimp/</guid>
-      <description></description>
+      <description>&lt;b style=&#34;font-size:120%;color:#008080&#34;&gt;ICCV 2019&lt;/b&gt; &lt;b style=&#34;font-size:120%;color:#E08040&#34;&gt;Oral&lt;/b&gt;&lt;br&gt; An end-to-end tracking architecture, capable of fully exploiting both target and background appearance information for target model prediction.</description>
     </item>
     
     <item>
       <title>Tracking the Known and the Unknown by Leveraging Semantic Information</title>
       <link>https://martin-danelljan.github.io/publication/trknwn/</link>
       <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
       <guid>https://martin-danelljan.github.io/publication/trknwn/</guid>
-      <description></description>
+      <description>&lt;b style=&#34;font-size:120%;color:#008080&#34;&gt;BMVC 2019&lt;/b&gt; &lt;b style=&#34;font-size:120%;color:#E08040&#34;&gt;&lt;/b&gt;&lt;br&gt; &amp;ldquo;e propose a tracking framework that can exploit semantic information, without sacrificing the generic nature of the tracker.</description>
     </item>
     
   </channel>

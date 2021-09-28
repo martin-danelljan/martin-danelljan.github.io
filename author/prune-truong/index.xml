@@ -1,47 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Prune Truong | Martin Danelljan</title>
+    <title>Prune Truong on Martin Danelljan</title>
     <link>https://martin-danelljan.github.io/author/prune-truong/</link>
-      <atom:link href="https://martin-danelljan.github.io/author/prune-truong/index.xml" rel="self" type="application/rss+xml" />
-    <description>Prune Truong</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 06:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://martin-danelljan.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Prune Truong</title>
-      <link>https://martin-danelljan.github.io/author/prune-truong/</link>
-    </image>
-    
+    <description>Recent content in Prune Truong on Martin Danelljan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Aug 2021 06:00:00 +0000</lastBuildDate><atom:link href="https://martin-danelljan.github.io/author/prune-truong/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Warp Consistency for Unsupervised Learning of Dense Correspondences</title>
       <link>https://martin-danelljan.github.io/publication/warpc/</link>
       <pubDate>Sun, 01 Aug 2021 06:00:00 +0000</pubDate>
+      
       <guid>https://martin-danelljan.github.io/publication/warpc/</guid>
-      <description></description>
+      <description>&lt;b style=&#34;font-size:120%;color:#008080&#34;&gt;ICCV 2021&lt;/b&gt; &lt;b style=&#34;font-size:120%;color:#E08040&#34;&gt;Oral&lt;/b&gt;&lt;br&gt; Unsupervised method for learning dense correspondences and optical flow on real image pairs.</description>
     </item>
     
     <item>
       <title>Learning Accurate Dense Correspondences and When to Trust Them</title>
       <link>https://martin-danelljan.github.io/publication/pdcnet/</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://martin-danelljan.github.io/publication/pdcnet/</guid>
-      <description></description>
+      <description>&lt;b style=&#34;font-size:120%;color:#008080&#34;&gt;CVPR 2021&lt;/b&gt; &lt;b style=&#34;font-size:120%;color:#E08040&#34;&gt;Oral&lt;/b&gt;&lt;br&gt; A method that gives you accurate dense optical flow and correspondences with robust uncertainty.</description>
     </item>
     
     <item>
       <title>GOCor: Bringing Globally Optimized Correspondence Volumes into Your Neural Network</title>
       <link>https://martin-danelljan.github.io/publication/gocor/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://martin-danelljan.github.io/publication/gocor/</guid>
-      <description></description>
+      <description>&lt;b style=&#34;font-size:120%;color:#008080&#34;&gt;NeurIPS 2020&lt;/b&gt;&lt;br&gt; A fully differentiable dense matching module for your correspondence or optical flow network.</description>
     </item>
     
     <item>
       <title>GLU-Net: Global-Local Universal Network for Dense Flow and Correspondences</title>
       <link>https://martin-danelljan.github.io/publication/glunet/</link>
       <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://martin-danelljan.github.io/publication/glunet/</guid>
-      <description></description>
+      <description>&lt;b style=&#34;font-size:120%;color:#008080&#34;&gt;CVPR 2020&lt;/b&gt; &lt;b style=&#34;font-size:120%;color:#E08040&#34;&gt;Oral&lt;/b&gt;&lt;br&gt; A unified network architecture for dense correspondences applicable to geometric matching, optical flow and semantic matching.</description>
     </item>
     
   </channel>

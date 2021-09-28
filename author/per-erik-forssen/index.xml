@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Per-Erik Forssén | Martin Danelljan</title>
+    <title>Per-Erik Forssén on Martin Danelljan</title>
     <link>https://martin-danelljan.github.io/author/per-erik-forssen/</link>
-      <atom:link href="https://martin-danelljan.github.io/author/per-erik-forssen/index.xml" rel="self" type="application/rss+xml" />
-    <description>Per-Erik Forssén</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Jun 2018 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://martin-danelljan.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Per-Erik Forssén</title>
-      <link>https://martin-danelljan.github.io/author/per-erik-forssen/</link>
-    </image>
-    
+    <description>Recent content in Per-Erik Forssén on Martin Danelljan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://martin-danelljan.github.io/author/per-erik-forssen/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Density Adaptive Point Set Registration</title>
       <link>https://martin-danelljan.github.io/publication/dare/</link>
       <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://martin-danelljan.github.io/publication/dare/</guid>
-      <description></description>
+      <description>&lt;b style=&#34;font-size:120%;color:#008080&#34;&gt;CVPR 2018&lt;/b&gt; &lt;b style=&#34;font-size:120%;color:#E08040&#34;&gt;Oral&lt;/b&gt;&lt;br&gt; Revisiting the foundations of probabilistic point cloud registration in order to tackle the key issue of sampling density variations.</description>
     </item>
     
   </channel>

@@ -1,39 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Andreas Lugmayr | Martin Danelljan</title>
+    <title>Andreas Lugmayr on Martin Danelljan</title>
     <link>https://martin-danelljan.github.io/author/andreas-lugmayr/</link>
-      <atom:link href="https://martin-danelljan.github.io/author/andreas-lugmayr/index.xml" rel="self" type="application/rss+xml" />
-    <description>Andreas Lugmayr</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 01:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://martin-danelljan.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Andreas Lugmayr</title>
-      <link>https://martin-danelljan.github.io/author/andreas-lugmayr/</link>
-    </image>
-    
+    <description>Recent content in Andreas Lugmayr on Martin Danelljan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Aug 2021 01:00:00 +0000</lastBuildDate><atom:link href="https://martin-danelljan.github.io/author/andreas-lugmayr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hierarchical Conditional Flow: A Unified Framework for Image Super-Resolution and Image Rescaling</title>
       <link>https://martin-danelljan.github.io/publication/hcflow/</link>
       <pubDate>Sun, 01 Aug 2021 01:00:00 +0000</pubDate>
+      
       <guid>https://martin-danelljan.github.io/publication/hcflow/</guid>
-      <description></description>
+      <description>&lt;b style=&#34;font-size:120%;color:#008080&#34;&gt;ICCV 2021&lt;/b&gt;&lt;br&gt; A unified hierarchical normalizing flow architecture for super-resolution and image rescaling.</description>
     </item>
     
     <item>
       <title>DeFlow: Learning Complex Image Degradations from Unpaired Data with Conditional Flows</title>
       <link>https://martin-danelljan.github.io/publication/deflow/</link>
       <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://martin-danelljan.github.io/publication/deflow/</guid>
-      <description></description>
+      <description>&lt;b style=&#34;font-size:120%;color:#008080&#34;&gt;CVPR 2021&lt;/b&gt; &lt;b style=&#34;font-size:120%;color:#E08040&#34;&gt;Oral&lt;/b&gt;&lt;br&gt; A novel unpaired learning formulation for conditional normalizing flows with applications to learning image degradations.</description>
     </item>
     
     <item>
       <title>SRFlow: Learning the Super-Resolution Space with Normalizing Flow</title>
       <link>https://martin-danelljan.github.io/publication/srflow/</link>
       <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://martin-danelljan.github.io/publication/srflow/</guid>
-      <description></description>
+      <description>&lt;b style=&#34;font-size:120%;color:#008080&#34;&gt;ECCV 2020&lt;/b&gt; &lt;b style=&#34;font-size:120%;color:#E08040&#34;&gt;Spotlight&lt;/b&gt;&lt;br&gt; Normalizing flow based super-resolution method capable of learning the conditional distribution of the output given the low-resolution input.</description>
     </item>
     
   </channel>

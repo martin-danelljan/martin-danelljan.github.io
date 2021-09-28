@@ -1,16 +1,398 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Martin Danelljan</title>
+    <title>Authors on Martin Danelljan</title>
     <link>https://martin-danelljan.github.io/authors/</link>
-      <atom:link href="https://martin-danelljan.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
-    <description>Authors</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 06:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://martin-danelljan.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Authors</title>
-      <link>https://martin-danelljan.github.io/authors/</link>
-    </image>
+    <description>Recent content in Authors on Martin Danelljan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Aug 2021 06:00:00 +0000</lastBuildDate><atom:link href="https://martin-danelljan.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fisher Yu</title>
+      <link>https://martin-danelljan.github.io/author/fisher-yu/</link>
+      <pubDate>Sun, 01 Aug 2021 06:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/fisher-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luc Van Gool</title>
+      <link>https://martin-danelljan.github.io/author/luc-van-gool/</link>
+      <pubDate>Sun, 01 Aug 2021 06:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/luc-van-gool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martin Danelljan</title>
+      <link>https://martin-danelljan.github.io/author/martin-danelljan/</link>
+      <pubDate>Sun, 01 Aug 2021 06:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/martin-danelljan/</guid>
+      <description>I received my Ph.D. degree from Linköping University, Sweden in 2018. My thesis &amp;ldquo;Visual Tracking&amp;rdquo; was awarded the biennial Best Nordic Thesis Prize. I am a researcher in the Computer Vision Lab at ETH Zurich, Switzerland.</description>
+    </item>
+    
+    <item>
+      <title>Prune Truong</title>
+      <link>https://martin-danelljan.github.io/author/prune-truong/</link>
+      <pubDate>Sun, 01 Aug 2021 06:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/prune-truong/</guid>
+      <description>Go to Prune&amp;rsquo;s personal webpage</description>
+    </item>
+    
+    <item>
+      <title>Goutam Bhat</title>
+      <link>https://martin-danelljan.github.io/author/goutam-bhat/</link>
+      <pubDate>Sun, 01 Aug 2021 05:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/goutam-bhat/</guid>
+      <description>Go to Goutam&amp;rsquo;s personal webpage</description>
+    </item>
+    
+    <item>
+      <title>Radu Timofte</title>
+      <link>https://martin-danelljan.github.io/author/radu-timofte/</link>
+      <pubDate>Sun, 01 Aug 2021 05:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/radu-timofte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bin Zhao</title>
+      <link>https://martin-danelljan.github.io/author/bin-zhao/</link>
+      <pubDate>Sun, 01 Aug 2021 04:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/bin-zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christoph Mayer</title>
+      <link>https://martin-danelljan.github.io/author/christoph-mayer/</link>
+      <pubDate>Sun, 01 Aug 2021 03:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/christoph-mayer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Danda Pani Paudel</title>
+      <link>https://martin-danelljan.github.io/author/danda-pani-paudel/</link>
+      <pubDate>Sun, 01 Aug 2021 03:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/danda-pani-paudel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andreas Lugmayr</title>
+      <link>https://martin-danelljan.github.io/author/andreas-lugmayr/</link>
+      <pubDate>Sun, 01 Aug 2021 01:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/andreas-lugmayr/</guid>
+      <description>Go to Andreas&amp;rsquo;s twitter</description>
+    </item>
+    
+    <item>
+      <title>Jingyun Liang</title>
+      <link>https://martin-danelljan.github.io/author/jingyun-liang/</link>
+      <pubDate>Sun, 01 Aug 2021 01:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/jingyun-liang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kai Zhang</title>
+      <link>https://martin-danelljan.github.io/author/kai-zhang/</link>
+      <pubDate>Sun, 01 Aug 2021 01:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/kai-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shipra Jain</title>
+      <link>https://martin-danelljan.github.io/author/shipra-jain/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/shipra-jain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthieu Paul</title>
+      <link>https://martin-danelljan.github.io/author/matthieu-paul/</link>
+      <pubDate>Thu, 01 Jul 2021 03:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/matthieu-paul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Valentin Wolf</title>
+      <link>https://martin-danelljan.github.io/author/valentin-wolf/</link>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/valentin-wolf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shuhang Gu</title>
+      <link>https://martin-danelljan.github.io/author/shuhang-gu/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/shuhang-gu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wen Li</title>
+      <link>https://martin-danelljan.github.io/author/wen-li/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/wen-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yawei Li</title>
+      <link>https://martin-danelljan.github.io/author/yawei-li/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/yawei-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ardhendu Tripathi</title>
+      <link>https://martin-danelljan.github.io/author/ardhendu-tripathi/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/ardhendu-tripathi/</guid>
+      <description>Go to Ardhendu&amp;rsquo;s personal webpage</description>
+    </item>
+    
+    <item>
+      <title>Alexandre Alahi</title>
+      <link>https://martin-danelljan.github.io/author/alexandre-alahi/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/alexandre-alahi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexandre Carlier</title>
+      <link>https://martin-danelljan.github.io/author/alexandre-carlier/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/alexandre-carlier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fredrik Gustafsson</title>
+      <link>https://martin-danelljan.github.io/author/fredrik-gustafsson/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/fredrik-gustafsson/</guid>
+      <description>Go to Fredrik&amp;rsquo;s personal webpage</description>
+    </item>
+    
+    <item>
+      <title>Thomas Schön</title>
+      <link>https://martin-danelljan.github.io/author/thomas-schon/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/thomas-schon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andreas Robinson</title>
+      <link>https://martin-danelljan.github.io/author/andreas-robinson/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/andreas-robinson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Felix Järemo Lawin</title>
+      <link>https://martin-danelljan.github.io/author/felix-jaremo-lawin/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/felix-jaremo-lawin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Felsberg</title>
+      <link>https://martin-danelljan.github.io/author/michael-felsberg/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/michael-felsberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jianbing Shen</title>
+      <link>https://martin-danelljan.github.io/author/jianbing-shen/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/jianbing-shen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tianfei Zhou</title>
+      <link>https://martin-danelljan.github.io/author/tianfei-zhou/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/tianfei-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wenguan Wang</title>
+      <link>https://martin-danelljan.github.io/author/wenguan-wang/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/wenguan-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xinkai Lu</title>
+      <link>https://martin-danelljan.github.io/author/xinkai-lu/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/xinkai-lu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fahad Shahbaz Khan</title>
+      <link>https://martin-danelljan.github.io/author/fahad-shahbaz-khan/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/fahad-shahbaz-khan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jian Sun</title>
+      <link>https://martin-danelljan.github.io/author/jian-sun/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/jian-sun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiancai Wang</title>
+      <link>https://martin-danelljan.github.io/author/tiancai-wang/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/tiancai-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tong Yang</title>
+      <link>https://martin-danelljan.github.io/author/tong-yang/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/tong-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiangyu Zhang</title>
+      <link>https://martin-danelljan.github.io/author/xiangyu-zhang/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/xiangyu-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abel Gonzalez-Garcia</title>
+      <link>https://martin-danelljan.github.io/author/abel-gonzalez-garcia/</link>
+      <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/abel-gonzalez-garcia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joost van de Weijer</title>
+      <link>https://martin-danelljan.github.io/author/joost-van-de-weijer/</link>
+      <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/joost-van-de-weijer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lichao Zhang</title>
+      <link>https://martin-danelljan.github.io/author/lichao-zhang/</link>
+      <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/lichao-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emil Brissman</title>
+      <link>https://martin-danelljan.github.io/author/emil-brissman/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/emil-brissman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joakim Johnander</title>
+      <link>https://martin-danelljan.github.io/author/joakim-johnander/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/joakim-johnander/</guid>
+      <description>Go to Joakim&amp;rsquo;s github page</description>
+    </item>
+    
+    <item>
+      <title>Per-Erik Forssén</title>
+      <link>https://martin-danelljan.github.io/author/per-erik-forssen/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/per-erik-forssen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Giulia Meneghetti</title>
+      <link>https://martin-danelljan.github.io/author/giulia-meneghetti/</link>
+      <pubDate>Sat, 25 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/giulia-meneghetti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gustav Häger</title>
+      <link>https://martin-danelljan.github.io/author/gustav-hager/</link>
+      <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin-danelljan.github.io/author/gustav-hager/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Christoph Mayer | Martin Danelljan</title>
+    <title>Christoph Mayer on Martin Danelljan</title>
     <link>https://martin-danelljan.github.io/author/christoph-mayer/</link>
-      <atom:link href="https://martin-danelljan.github.io/author/christoph-mayer/index.xml" rel="self" type="application/rss+xml" />
-    <description>Christoph Mayer</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Aug 2021 03:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://martin-danelljan.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Christoph Mayer</title>
-      <link>https://martin-danelljan.github.io/author/christoph-mayer/</link>
-    </image>
-    
+    <description>Recent content in Christoph Mayer on Martin Danelljan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Aug 2021 03:00:00 +0000</lastBuildDate><atom:link href="https://martin-danelljan.github.io/author/christoph-mayer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Learning Target Candidate Association to Keep Track of What Not to Track</title>
       <link>https://martin-danelljan.github.io/publication/keeptrack/</link>
       <pubDate>Sun, 01 Aug 2021 03:00:00 +0000</pubDate>
+      
       <guid>https://martin-danelljan.github.io/publication/keeptrack/</guid>
-      <description></description>
+      <description>&lt;b style=&#34;font-size:120%;color:#008080&#34;&gt;ICCV 2021&lt;/b&gt;&lt;br&gt; Associating the target and distractor objects for robust visual tracking.</description>
     </item>
     
   </channel>
