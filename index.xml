@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <title>Martin Danelljan</title>
+    <link>https://martin-danelljan.github.io/</link>
+      <atom:link href="https://martin-danelljan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martin Danelljan</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Academic</title>
-      <link>https://example.com/</link>
+      <url>https://martin-danelljan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Martin Danelljan</title>
+      <link>https://martin-danelljan.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/talk/example-talk/</link>
+      <link>https://martin-danelljan.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/example-talk/</guid>
+      <guid>https://martin-danelljan.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,105 +34,105 @@
     
     <item>
       <title>Warp Consistency for Unsupervised Learning of Dense Correspondences</title>
-      <link>https://example.com/publication/warpc/</link>
+      <link>https://martin-danelljan.github.io/publication/warpc/</link>
       <pubDate>Sun, 01 Aug 2021 06:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/warpc/</guid>
+      <guid>https://martin-danelljan.github.io/publication/warpc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Reparametrization of Multi-Frame Super-Resolution and Denoising</title>
-      <link>https://example.com/publication/deepreparam/</link>
+      <link>https://martin-danelljan.github.io/publication/deepreparam/</link>
       <pubDate>Sun, 01 Aug 2021 05:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/deepreparam/</guid>
+      <guid>https://martin-danelljan.github.io/publication/deepreparam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generating Masks from Boxes by Mining Spatio-Temporal Consistencies in Videos</title>
-      <link>https://example.com/publication/vidboxseg/</link>
+      <link>https://martin-danelljan.github.io/publication/vidboxseg/</link>
       <pubDate>Sun, 01 Aug 2021 04:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/vidboxseg/</guid>
+      <guid>https://martin-danelljan.github.io/publication/vidboxseg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Target Candidate Association to Keep Track of What Not to Track</title>
-      <link>https://example.com/publication/keeptrack/</link>
+      <link>https://martin-danelljan.github.io/publication/keeptrack/</link>
       <pubDate>Sun, 01 Aug 2021 03:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/keeptrack/</guid>
+      <guid>https://martin-danelljan.github.io/publication/keeptrack/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hierarchical Conditional Flow: A Unified Framework for Image Super-Resolution and Image Rescaling</title>
-      <link>https://example.com/publication/hcflow/</link>
+      <link>https://martin-danelljan.github.io/publication/hcflow/</link>
       <pubDate>Sun, 01 Aug 2021 01:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hcflow/</guid>
+      <guid>https://martin-danelljan.github.io/publication/hcflow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scaling Semantic Segmentation Beyond 1K Classes on a Single GPU</title>
-      <link>https://example.com/publication/scalingseg/</link>
+      <link>https://martin-danelljan.github.io/publication/scalingseg/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/scalingseg/</guid>
+      <guid>https://martin-danelljan.github.io/publication/scalingseg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Local Memory Attention for Fast Video Semantic Segmentation</title>
-      <link>https://example.com/publication/locattseg/</link>
+      <link>https://martin-danelljan.github.io/publication/locattseg/</link>
       <pubDate>Thu, 01 Jul 2021 03:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/locattseg/</guid>
+      <guid>https://martin-danelljan.github.io/publication/locattseg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Accurate Dense Correspondences and When to Trust Them</title>
-      <link>https://example.com/publication/pdcnet/</link>
+      <link>https://martin-danelljan.github.io/publication/pdcnet/</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/pdcnet/</guid>
+      <guid>https://martin-danelljan.github.io/publication/pdcnet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DeFlow: Learning Complex Image Degradations from Unpaired Data with Conditional Flows</title>
-      <link>https://example.com/publication/deflow/</link>
+      <link>https://martin-danelljan.github.io/publication/deflow/</link>
       <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/deflow/</guid>
+      <guid>https://martin-danelljan.github.io/publication/deflow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Burst Super-Resolution</title>
-      <link>https://example.com/publication/burstsr/</link>
+      <link>https://martin-danelljan.github.io/publication/burstsr/</link>
       <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/burstsr/</guid>
+      <guid>https://martin-danelljan.github.io/publication/burstsr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Heterogeneity Hypothesis: Finding Layer-Wise Dissimilated Network Architecture</title>
-      <link>https://example.com/publication/hethyp/</link>
+      <link>https://martin-danelljan.github.io/publication/hethyp/</link>
       <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/hethyp/</guid>
+      <guid>https://martin-danelljan.github.io/publication/hethyp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Few-Shot Classification By Few-Iteration Meta-Learning</title>
-      <link>https://example.com/publication/fiml/</link>
+      <link>https://martin-danelljan.github.io/publication/fiml/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/fiml/</guid>
+      <guid>https://martin-danelljan.github.io/publication/fiml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>https://martin-danelljan.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>https://martin-danelljan.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -207,145 +207,145 @@
     
     <item>
       <title>DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation</title>
-      <link>https://example.com/publication/deepsvg/</link>
+      <link>https://martin-danelljan.github.io/publication/deepsvg/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/deepsvg/</guid>
+      <guid>https://martin-danelljan.github.io/publication/deepsvg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GOCor: Bringing Globally Optimized Correspondence Volumes into Your Neural Network</title>
-      <link>https://example.com/publication/gocor/</link>
+      <link>https://martin-danelljan.github.io/publication/gocor/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/gocor/</guid>
+      <guid>https://martin-danelljan.github.io/publication/gocor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How to Train Your Energy-Based Model for Regression</title>
-      <link>https://example.com/publication/ebmregtr/</link>
+      <link>https://martin-danelljan.github.io/publication/ebmregtr/</link>
       <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ebmregtr/</guid>
+      <guid>https://martin-danelljan.github.io/publication/ebmregtr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning What to Learn for Video Object Segmentation</title>
-      <link>https://example.com/publication/lwtl/</link>
+      <link>https://martin-danelljan.github.io/publication/lwtl/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/lwtl/</guid>
+      <guid>https://martin-danelljan.github.io/publication/lwtl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SRFlow: Learning the Super-Resolution Space with Normalizing Flow</title>
-      <link>https://example.com/publication/srflow/</link>
+      <link>https://martin-danelljan.github.io/publication/srflow/</link>
       <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/srflow/</guid>
+      <guid>https://martin-danelljan.github.io/publication/srflow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Energy-Based Models for Deep Probabilistic Regression</title>
-      <link>https://example.com/publication/ebmreg/</link>
+      <link>https://martin-danelljan.github.io/publication/ebmreg/</link>
       <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ebmreg/</guid>
+      <guid>https://martin-danelljan.github.io/publication/ebmreg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Video Object Segmentation with Episodic Graph Memory Networks</title>
-      <link>https://example.com/publication/egmvos/</link>
+      <link>https://martin-danelljan.github.io/publication/egmvos/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/egmvos/</guid>
+      <guid>https://martin-danelljan.github.io/publication/egmvos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Know Your Surroundings: Exploiting Scene Information for Object Tracking</title>
-      <link>https://example.com/publication/kys/</link>
+      <link>https://martin-danelljan.github.io/publication/kys/</link>
       <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/kys/</guid>
+      <guid>https://martin-danelljan.github.io/publication/kys/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GLU-Net: Global-Local Universal Network for Dense Flow and Correspondences</title>
-      <link>https://example.com/publication/glunet/</link>
+      <link>https://martin-danelljan.github.io/publication/glunet/</link>
       <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/glunet/</guid>
+      <guid>https://martin-danelljan.github.io/publication/glunet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Fast and Robust Target Models for Video Object Segmentation</title>
-      <link>https://example.com/publication/frtm/</link>
+      <link>https://martin-danelljan.github.io/publication/frtm/</link>
       <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/frtm/</guid>
+      <guid>https://martin-danelljan.github.io/publication/frtm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Probabilistic Regression for Visual Tracking</title>
-      <link>https://example.com/publication/prdimp/</link>
+      <link>https://martin-danelljan.github.io/publication/prdimp/</link>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/prdimp/</guid>
+      <guid>https://martin-danelljan.github.io/publication/prdimp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Human-Object Interaction Detection using Interaction Points</title>
-      <link>https://example.com/publication/iphoi/</link>
+      <link>https://martin-danelljan.github.io/publication/iphoi/</link>
       <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/iphoi/</guid>
+      <guid>https://martin-danelljan.github.io/publication/iphoi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Discriminative Model Prediction for Tracking</title>
-      <link>https://example.com/publication/dimp/</link>
+      <link>https://martin-danelljan.github.io/publication/dimp/</link>
       <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/dimp/</guid>
+      <guid>https://martin-danelljan.github.io/publication/dimp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning the Model Update for Siamese Trackers</title>
-      <link>https://example.com/publication/updatenet/</link>
+      <link>https://martin-danelljan.github.io/publication/updatenet/</link>
       <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/updatenet/</guid>
+      <guid>https://martin-danelljan.github.io/publication/updatenet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tracking the Known and the Unknown by Leveraging Semantic Information</title>
-      <link>https://example.com/publication/trknwn/</link>
+      <link>https://martin-danelljan.github.io/publication/trknwn/</link>
       <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/trknwn/</guid>
+      <guid>https://martin-danelljan.github.io/publication/trknwn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ATOM: Accurate Tracking by Overlap Maximization</title>
-      <link>https://example.com/publication/atom/</link>
+      <link>https://martin-danelljan.github.io/publication/atom/</link>
       <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/atom/</guid>
+      <guid>https://martin-danelljan.github.io/publication/atom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Generative Appearance Model for End-to-end Video Object Segmentation</title>
-      <link>https://example.com/publication/agame/</link>
+      <link>https://martin-danelljan.github.io/publication/agame/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/agame/</guid>
+      <guid>https://martin-danelljan.github.io/publication/agame/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>https://martin-danelljan.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>https://martin-danelljan.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -472,57 +472,57 @@ Three
     
     <item>
       <title>Unveiling the Power of Deep Tracking</title>
-      <link>https://example.com/publication/updt/</link>
+      <link>https://martin-danelljan.github.io/publication/updt/</link>
       <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/updt/</guid>
+      <guid>https://martin-danelljan.github.io/publication/updt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Density Adaptive Point Set Registration</title>
-      <link>https://example.com/publication/dare/</link>
+      <link>https://martin-danelljan.github.io/publication/dare/</link>
       <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/dare/</guid>
+      <guid>https://martin-danelljan.github.io/publication/dare/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ECO: Efficient Convolution Operators for Tracking</title>
-      <link>https://example.com/publication/eco/</link>
+      <link>https://martin-danelljan.github.io/publication/eco/</link>
       <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/eco/</guid>
+      <guid>https://martin-danelljan.github.io/publication/eco/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking</title>
-      <link>https://example.com/publication/ccot/</link>
+      <link>https://martin-danelljan.github.io/publication/ccot/</link>
       <pubDate>Wed, 05 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ccot/</guid>
+      <guid>https://martin-danelljan.github.io/publication/ccot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Probabilistic Framework for Color-Based Point Set Registration</title>
-      <link>https://example.com/publication/cppsr/</link>
+      <link>https://martin-danelljan.github.io/publication/cppsr/</link>
       <pubDate>Sat, 25 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/cppsr/</guid>
+      <guid>https://martin-danelljan.github.io/publication/cppsr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive Decontamination of the Training Set: A Unified Formulation for Discriminative Visual Tracking</title>
-      <link>https://example.com/publication/decon/</link>
+      <link>https://martin-danelljan.github.io/publication/decon/</link>
       <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/decon/</guid>
+      <guid>https://martin-danelljan.github.io/publication/decon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Project</title>
-      <link>https://example.com/project/example/</link>
+      <link>https://martin-danelljan.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
+      <guid>https://martin-danelljan.github.io/project/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -533,33 +533,33 @@ Three
     
     <item>
       <title>Learning Spatially Regularized Correlation Filters for Visual Tracking</title>
-      <link>https://example.com/publication/srdcf/</link>
+      <link>https://martin-danelljan.github.io/publication/srdcf/</link>
       <pubDate>Tue, 15 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/srdcf/</guid>
+      <guid>https://martin-danelljan.github.io/publication/srdcf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discriminative Scale Space Tracking</title>
-      <link>https://example.com/publication/dsst/</link>
+      <link>https://martin-danelljan.github.io/publication/dsst/</link>
       <pubDate>Mon, 15 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/dsst/</guid>
+      <guid>https://martin-danelljan.github.io/publication/dsst/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive Color Attributes for Real-Time Visual Tracking</title>
-      <link>https://example.com/publication/act/</link>
+      <link>https://martin-danelljan.github.io/publication/act/</link>
       <pubDate>Tue, 24 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/act/</guid>
+      <guid>https://martin-danelljan.github.io/publication/act/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example conference paper</title>
-      <link>https://example.com/publication/example/</link>
+      <link>https://martin-danelljan.github.io/publication/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/example/</guid>
+      <guid>https://martin-danelljan.github.io/publication/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -576,9 +576,9 @@ Three
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>https://martin-danelljan.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>https://martin-danelljan.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
