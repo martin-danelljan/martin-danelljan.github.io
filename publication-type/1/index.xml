@@ -5,12 +5,76 @@
     <link>https://martin-danelljan.github.io/publication-type/1/</link>
       <atom:link href="https://martin-danelljan.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 08:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martin-danelljan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://martin-danelljan.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>RePaint: Inpainting using Denoising Diffusion Probabilistic Models</title>
+      <link>https://martin-danelljan.github.io/publication/repaint/</link>
+      <pubDate>Tue, 01 Mar 2022 08:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/repaint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mask Transfiner for High-Quality Instance Segmentation</title>
+      <link>https://martin-danelljan.github.io/publication/masktr/</link>
+      <pubDate>Tue, 01 Mar 2022 07:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/masktr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Warp Consistency for Weakly-Supervised Semantic Correspondences</title>
+      <link>https://martin-danelljan.github.io/publication/pwarpc/</link>
+      <pubDate>Tue, 01 Mar 2022 06:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/pwarpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adiabatic Quantum Computing for Multi Object Tracking</title>
+      <link>https://martin-danelljan.github.io/publication/aqctrack/</link>
+      <pubDate>Tue, 01 Mar 2022 05:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/aqctrack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transforming Model Prediction for Tracking</title>
+      <link>https://martin-danelljan.github.io/publication/tmp/</link>
+      <pubDate>Tue, 01 Mar 2022 03:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/tmp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arbitrary-Scale Image Synthesis</title>
+      <link>https://martin-danelljan.github.io/publication/scaleparty/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/scaleparty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Target Candidate Association to Keep Track of What Not to Track</title>
+      <link>https://martin-danelljan.github.io/publication/colcondgan/</link>
+      <pubDate>Tue, 01 Feb 2022 03:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/colcondgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adiabatic Quantum Computing for Multi Object Tracking</title>
+      <link>https://martin-danelljan.github.io/publication/graph3dtrack/</link>
+      <pubDate>Sat, 15 Jan 2022 05:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/graph3dtrack/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Prototypical Cross-Attention Networks for Multiple Object Tracking and Segmentation</title>
