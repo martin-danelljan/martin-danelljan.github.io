@@ -33,6 +33,54 @@
     </item>
     
     <item>
+      <title>Dense Gaussian Processes for Few-Shot Segmentation</title>
+      <link>https://martin-danelljan.github.io/publication/gpfss/</link>
+      <pubDate>Mon, 01 Aug 2022 08:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/gpfss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Visual Tracking by Segmentation</title>
+      <link>https://martin-danelljan.github.io/publication/rts/</link>
+      <pubDate>Mon, 01 Aug 2022 08:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/rts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transform your Smartphone into a DSLR Camera: Learning the ISP in the Wild</title>
+      <link>https://martin-danelljan.github.io/publication/trisp/</link>
+      <pubDate>Mon, 01 Aug 2022 07:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/trisp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracking Every Thing in the Wild</title>
+      <link>https://martin-danelljan.github.io/publication/tetr/</link>
+      <pubDate>Mon, 01 Aug 2022 05:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/tetr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video Mask Transfiner for High-Quality Video Instance Segmentation</title>
+      <link>https://martin-danelljan.github.io/publication/vidmasktr/</link>
+      <pubDate>Mon, 01 Aug 2022 04:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/vidmasktr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TACS: Taxonomy Adaptive Cross-Domain Semantic Segmentation</title>
+      <link>https://martin-danelljan.github.io/publication/tacs/</link>
+      <pubDate>Mon, 01 Aug 2022 01:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/tacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>RePaint: Inpainting using Denoising Diffusion Probabilistic Models</title>
       <link>https://martin-danelljan.github.io/publication/repaint/</link>
       <pubDate>Tue, 01 Mar 2022 08:00:00 +0000</pubDate>
