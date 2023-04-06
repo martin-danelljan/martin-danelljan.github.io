@@ -1,5 +1,5 @@
 backend:
-  branch: master
+  branch: main
   name: git-gateway
   squash_merges: true
 collections:

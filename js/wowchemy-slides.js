@@ -2,27 +2,8 @@
   // ns-params:@params
   var slides = { highlight_style: "dracula", theme: "black" };
 
-  // ns-hugo:/var/folders/p9/qzq89k454_q1838v9bsl683h0000gn/T/hugo_cache/modules/filecache/modules/pkg/mod/github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5@v5.0.0-20220307125723-f79d02251851/assets/js/wowchemy-utils.js
-  function fixMermaid(render = false) {
-    let mermaids = [];
-    [].push.apply(mermaids, document.getElementsByClassName("language-mermaid"));
-    for (let i = 0; i < mermaids.length; i++) {
-      let mermaidCodeElement = mermaids[i];
-      let newElement = document.createElement("div");
-      newElement.innerHTML = mermaidCodeElement.innerHTML;
-      newElement.classList.add("mermaid");
-      if (render) {
-        window.mermaid.mermaidAPI.render(`mermaid-${i}`, newElement.textContent, function(svgCode) {
-          newElement.innerHTML = svgCode;
-        });
-      }
-      mermaidCodeElement.parentNode.replaceWith(newElement);
-    }
-    console.debug(`Processed ${mermaids.length} Mermaid code blocks`);
-  }
-
   // <stdin>
-  var enabledPlugins = [RevealMarkdown, RevealHighlight, RevealSearch, RevealNotes, RevealMath.MathJax3, RevealZoom];
+  var enabledPlugins = [RevealMarkdown, RevealSearch, RevealNotes, RevealMath.KaTeX, RevealZoom];
   var isObject = function(o) {
     return o === Object(o) && !isArray(o) && typeof o !== "function";
   };
@@ -61,31 +42,6 @@
   }
   pluginOptions["plugins"] = enabledPlugins;
   Reveal.initialize(pluginOptions);
-  function mermaidSlidesReadyToRender(mslide) {
-    var diag = mslide.querySelector(".mermaid");
-    if (diag) {
-      var background = mslide.slideBackgroundElement;
-      var currentHorizontalIndex = Reveal.getState()["indexh"];
-      var diagramSlideIndex = Reveal.getIndices(mslide)["h"];
-      if (!diag.hasAttribute("data-processed") && background.hasAttribute("data-loaded") && background.style.display === "block" && diagramSlideIndex - currentHorizontalIndex <= 1)
-        return mslide;
-    }
-    return null;
-  }
-  function renderMermaidSlides() {
-    var diagramSlides = Reveal.getSlides().filter(mermaidSlidesReadyToRender);
-    diagramSlides.forEach(function(item) {
-      mermaid.init(item.querySelector(".mermaid"));
-    });
-  }
-  Reveal.on("slidechanged", function() {
-    renderMermaidSlides();
-  });
-  Reveal.on("Ready", function() {
-    if (Reveal.isReady()) {
-      renderMermaidSlides();
-    }
-  });
   if (typeof slides.diagram === "undefined") {
     slides.diagram = false;
   }
@@ -96,9 +52,22 @@
     }
     mermaidOptions["startOnLoad"] = false;
     mermaid.initialize(mermaidOptions);
-    document.addEventListener("DOMContentLoaded", function() {
-      fixMermaid(false);
-    });
+    let renderMermaidDiagrams = function renderMermaidDiagrams2(event) {
+      let mermaidDivs = event.currentSlide.querySelectorAll(".mermaid:not(.done)");
+      let indices = Reveal.getIndices();
+      let pageno = `${indices.h}-${indices.v}`;
+      mermaidDivs.forEach(function(mermaidDiv, i) {
+        let insertSvg = function(svgCode) {
+          mermaidDiv.innerHTML = svgCode;
+          mermaidDiv.classList.add("done");
+        };
+        let graphDefinition = mermaidDiv.textContent;
+        mermaid.mermaidAPI.render(`mermaid${pageno}-${i}`, graphDefinition, insertSvg);
+      });
+      Reveal.layout();
+    };
+    Reveal.on("ready", (event) => renderMermaidDiagrams(event));
+    Reveal.on("slidechanged", (event) => renderMermaidDiagrams(event));
   }
   var mermaidOptions;
 })();
