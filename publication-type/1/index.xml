@@ -5,12 +5,60 @@
     <link>https://martin-danelljan.github.io/publication-type/1/</link>
       <atom:link href="https://martin-danelljan.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2023 08:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 03:00:00 +0000</lastBuildDate>
     <image>
       <url>https://martin-danelljan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://martin-danelljan.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Segment Anything in High Quality</title>
+      <link>https://martin-danelljan.github.io/publication/hqsam/</link>
+      <pubDate>Sun, 01 Oct 2023 03:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/hqsam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BiMatting: Efficient Video Matting via Binarization</title>
+      <link>https://martin-danelljan.github.io/publication/bimatting/</link>
+      <pubDate>Sun, 01 Oct 2023 01:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/bimatting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QuantSR: Accurate Low-bit Quantization for Efficient Image Super-Resolution</title>
+      <link>https://martin-danelljan.github.io/publication/quantsr/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/quantsr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cascade-DETR: Delving into High-Quality Universal Object Detection</title>
+      <link>https://martin-danelljan.github.io/publication/cascadedetr/</link>
+      <pubDate>Tue, 01 Aug 2023 06:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/cascadedetr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R3D3: Dense 3D Reconstruction of Dynamic Scenes from Multiple Cameras</title>
+      <link>https://martin-danelljan.github.io/publication/r3d3/</link>
+      <pubDate>Tue, 01 Aug 2023 05:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/r3d3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MolGrapher: Graph-based Visual Recognition of Chemical Structures</title>
+      <link>https://martin-danelljan.github.io/publication/molgrapher/</link>
+      <pubDate>Tue, 01 Aug 2023 04:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/molgrapher/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mask-Free Video Instance Segmentation</title>

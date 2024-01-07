@@ -33,6 +33,54 @@
     </item>
     
     <item>
+      <title>Segment Anything in High Quality</title>
+      <link>https://martin-danelljan.github.io/publication/hqsam/</link>
+      <pubDate>Sun, 01 Oct 2023 03:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/hqsam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BiMatting: Efficient Video Matting via Binarization</title>
+      <link>https://martin-danelljan.github.io/publication/bimatting/</link>
+      <pubDate>Sun, 01 Oct 2023 01:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/bimatting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QuantSR: Accurate Low-bit Quantization for Efficient Image Super-Resolution</title>
+      <link>https://martin-danelljan.github.io/publication/quantsr/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/quantsr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cascade-DETR: Delving into High-Quality Universal Object Detection</title>
+      <link>https://martin-danelljan.github.io/publication/cascadedetr/</link>
+      <pubDate>Tue, 01 Aug 2023 06:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/cascadedetr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R3D3: Dense 3D Reconstruction of Dynamic Scenes from Multiple Cameras</title>
+      <link>https://martin-danelljan.github.io/publication/r3d3/</link>
+      <pubDate>Tue, 01 Aug 2023 05:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/r3d3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MolGrapher: Graph-based Visual Recognition of Chemical Structures</title>
+      <link>https://martin-danelljan.github.io/publication/molgrapher/</link>
+      <pubDate>Tue, 01 Aug 2023 04:00:00 +0000</pubDate>
+      <guid>https://martin-danelljan.github.io/publication/molgrapher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mask-Free Video Instance Segmentation</title>
       <link>https://martin-danelljan.github.io/publication/maskfreevis/</link>
       <pubDate>Sat, 01 Apr 2023 08:00:00 +0000</pubDate>
@@ -584,7 +632,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-491267583&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-159348762&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -594,7 +642,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-491267583&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-159348762&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
